@@ -1,5 +1,6 @@
 import React from 'react';
 import './css/styles.css';
+import 'react-dates/lib/css/_datepicker.css'
 import './router/AppRouter';
 import AppRouter from './router/AppRouter';
 
